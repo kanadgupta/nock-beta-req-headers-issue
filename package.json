@@ -1,0 +1,11 @@
+{
+  "author": "Kanad Gupta",
+  "dependencies": {
+    "nock": "^14.0.0-beta.12"
+  },
+  "engines": {
+    "node": "v20.16.0"
+  },
+  "private": true,
+  "type": "module"
+}
